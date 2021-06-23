@@ -1,6 +1,6 @@
 # IBM-Data-Science-Professional-Certification
 
-The courses enlisted in this specialization are as follows:
+The courses enlisted in this specialization are as follows :
 
  What is Data Science?
 
