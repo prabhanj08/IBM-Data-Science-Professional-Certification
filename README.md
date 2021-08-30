@@ -2,7 +2,7 @@
 
 The courses enlisted in this specialization are as follows :
 
- What is Data Science?
+ What is Data Science
 
  Open Source tools for Data Science
 
